@@ -9,7 +9,7 @@ Walkthrough of a given code with a focus on the PWA, Progressive Web App, that i
   - [Usage](#usage)
   - [License](#license)
   - [Contributions](#contributions)
-  - [Published Page](#page)
+  - [Walkthrough Video](#link-to-google-drive-video)
   - [Repo](#repo)
 
  ## Installation
